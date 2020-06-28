@@ -18,7 +18,8 @@ Note for easier/faster access, [create an alias](https://jonsuh.com/blog/bash-co
 
 <img src="/screenshots/screenshot-1.png" width=50% /><br/>
 <img src="/screenshots/screenshot-2.png" width=50% /><br/>
-<img src="/screenshots/screenshot-3.png" width=50% />
+<img src="/screenshots/screenshot-3.png" width=50% /><br/>
+<img src="/screenshots/screenshot-4.png" width=50% />
 
 ## Contributing
 
