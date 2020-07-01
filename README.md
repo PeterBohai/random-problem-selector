@@ -23,4 +23,4 @@ Note for easier/faster access, [create an alias](https://jonsuh.com/blog/bash-co
 
 ## Contributing
 
-If you experience any bugs or see anything that can be improved or added, please feel free to [open an issue](https://github.com/PeterBohai/bundo/issues) here or simply contact me on any of my socials (Email and [Linkedin](https://www.linkedin.com/in/peterhu08) can be found in the footer of any Bundo page). Thanks in advance!
+If you experience any bugs or see anything that can be improved or added, please feel free to [open an issue](https://github.com/PeterBohai/random-problem-selector/issues) here or simply contact me on any of my socials ([Linkedin](https://www.linkedin.com/in/peterhu08)). Thanks in advance!
